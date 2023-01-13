@@ -1,0 +1,41 @@
+{
+    "Counties": {
+        "Kajiado": {
+            "title": "Kajiado County",
+            "desc": "Roads In Kajiado County",
+            "length": "1000Km",
+            "url": "data/counties/Kajiado.gpkg",
+            "size":"6 Mb"
+        },
+        "Kiambu": {
+            "title": "Kiambu County",
+            "desc": "Roads In Kiambu County",
+            "length": "1000Km",
+            "url": "data/counties/Kiambu.gpkg",
+            "size": "9 Mb"
+        },
+        "Machakos": {
+            "title": "Machakos County",
+            "desc": "Roads In Machakos County",
+            "length": "1000Km",
+            "url": "data/counties/Machakos.gpkg",
+            "size": "5 Mb"
+        },
+        "Nairobi": {
+            "title": "Nairobi County",
+            "desc": "Roads In Nairobi County",
+            "length": "1000Km",
+            "url": "data/counties/Nairobi.gpkg",
+            "size": "8 Mb"
+        }
+    },
+    "Constituencies": {},
+    "Reclassification": {
+        "2021": {
+            "title": "Road Classification 2021",
+            "desc": "This includes roads reclassified in 2022",
+            "length": "Unspecified",
+            "url": "data/reclassification/2021.gpkg"
+        }
+    }
+}
