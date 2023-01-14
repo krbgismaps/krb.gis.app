@@ -34,6 +34,13 @@
             "length": "10Km",
             "url": "data/counties/test.gpkg",
             "size": "1 Mb"
+        },
+        "Test Mbtiles":{
+            "title": "Test Mbtiles",
+            "desc": "App test file",
+            "length": "10Km",
+            "url": "data/counties/test.mbtiles",
+            "size": "1 Mb"
         }
     },
     "Constituencies": {},
