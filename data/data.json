@@ -28,18 +28,18 @@
             "url": "data/counties/Nairobi.gpkg",
             "size": "8 Mb"
         },
+        "Nairobi Lite": {
+            "title": "Nairobi County Spatial Lite",
+            "desc": "Roads In Nairobi County",
+            "length": "1000Km",
+            "url": "data/counties/Nairobi.sqlite",
+            "size": "14 Mb"
+        },
         "Test":{
             "title": "Test Data",
             "desc": "App test file",
             "length": "10Km",
             "url": "data/counties/test.gpkg",
-            "size": "1 Mb"
-        },
-        "Test Mbtiles":{
-            "title": "Test Mbtiles",
-            "desc": "App test file",
-            "length": "10Km",
-            "url": "data/counties/test.mbtiles",
             "size": "1 Mb"
         }
     },
