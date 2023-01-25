@@ -28,12 +28,12 @@
             "url": "data/counties/Nairobi.gpkg",
             "size": "8 Mb"
         },
-        "Nairobi Lite": {
+        "Nairobi OSM": {
             "title": "Nairobi County Spatial Lite",
             "desc": "Roads In Nairobi County",
             "length": "1000Km",
-            "url": "data/counties/Nairobi.sqlite",
-            "size": "14 Mb"
+            "url": "data/mapsforge/Nairobi.map",
+            "size": "98 Kb"
         },
         "Test":{
             "title": "Test Data",
