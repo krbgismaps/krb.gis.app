@@ -35,13 +35,6 @@
             "url": "data/mapsforge/Nairobi.map",
             "size": "98 Kb"
         },
-        " OSM": {
-            "title": "Text",
-            "desc": "Roads In Nairobi County",
-            "length": "1000Km",
-            "url": "data/mapsforge/text.txt",
-            "size": "98 Kb"
-        },
         "Test":{
             "title": "Test Data",
             "desc": "App test file",
