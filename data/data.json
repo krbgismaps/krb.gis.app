@@ -35,6 +35,13 @@
             "url": "data/mapsforge/Nairobi.map",
             "size": "98 Kb"
         },
+        "Nairobi Test": {
+            "title": "Nairobi Test",
+            "desc": "Roads In Nairobi County",
+            "length": "1000Km",
+            "url": "data/mapsforge/nairobi_t.map",
+            "size": "98 Kb"
+        },
         "Test":{
             "title": "Test Data",
             "desc": "App test file",
