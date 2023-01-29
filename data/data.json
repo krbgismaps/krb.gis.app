@@ -50,7 +50,15 @@
             "size": "1 Mb"
         }
     },
-    "Constituencies": {},
+    "map": {
+		"Baringo2021":{
+            "title": "Baringo County Road Classification",
+            "desc": "Baringo County road classification map",
+            "length": "unspecified",
+            "url": "data/mapsforge/Baringo.map",
+            "size": "14 Mb"
+        }
+	},
     "Reclassification": {
         "2021": {
             "title": "Road Classification 2021",
