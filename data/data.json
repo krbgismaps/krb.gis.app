@@ -57,6 +57,13 @@
             "length": "unspecified",
             "url": "data/mapsforge/Baringo.map",
             "size": "14 Mb"
+        },
+		"Bomet2021":{
+            "title": "Bomet County Road Classification",
+            "desc": "Bomet County road classification map",
+            "length": "unspecified",
+            "url": "data/mapsforge/Bomet.map",
+            "size": "15 Mb"
         }
 	},
     "Reclassification": {
