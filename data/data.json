@@ -64,6 +64,13 @@
             "length": "unspecified",
             "url": "data/mapsforge/Bomet.map",
             "size": "15 Mb"
+        },
+		"Nairobi2021":{
+            "title": "Nairobi County Road Classification",
+            "desc": "Nairobi County road classification map",
+            "length": "unspecified",
+            "url": "data/mapsforge/Nairobi.map",
+            "size": "18 Mb"
         }
 	},
     "Reclassification": {
