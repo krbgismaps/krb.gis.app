@@ -49,14 +49,14 @@
             "desc": "Baringo County road classification map",
             "length": "unspecified",
             "url": "data/mapsforge/Baringo.map",
-            "size": "156 kb"
+            "size": "166 kb"
         },
 		"Bomet2021":{
             "title": "Bomet County Road Classification",
             "desc": "Bomet County road classification map",
             "length": "unspecified",
             "url": "data/mapsforge/Bomet.map",
-            "size": "492 kb"
+            "size": "636 kb"
         },
 		"Nairobi2021":{
             "title": "Nairobi County Road Classification",
