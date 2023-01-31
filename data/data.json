@@ -27,23 +27,16 @@
             "length": "1000Km",
             "url": "data/counties/Nairobi.gpkg",
             "size": "8 Mb"
-        },
-        "Nairobi Test": {
-            "title": "Nairobi Test",
-            "desc": "Roads In Nairobi County",
-            "length": "1000Km",
-            "url": "data/mapsforge/nairobi_t.map",
-            "size": "98 Kb"
-        },
-        "Test":{
-            "title": "Test Data",
-            "desc": "App test file",
-            "length": "10Km",
-            "url": "data/counties/test.gpkg",
-            "size": "1 Mb"
         }
     },
     "map": {
+        "Kenya2021": {
+            "title": "Kenyan Roads Map",
+            "desc": "This map contain all roads in kenya as per the 2021 road classification",
+            "length": "246,786 Km",
+            "url": "data/mapsforge/Kenya.map",
+            "size": "42 MB"
+        },
 		"Baringo2021":{
             "title": "Baringo County Road Classification",
             "desc": "Baringo County road classification map",
