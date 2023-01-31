@@ -37,6 +37,13 @@
             "url": "data/mapsforge/Kenya.map",
             "size": "42 MB"
         },
+		"2018Structures": {
+            "title": "RICS 2018 Structures",
+            "desc": "Map showing major structures in 2018 RICS",
+            "length": "246,786 Km",
+            "url": "data/mapsforge/2018Structures.map",
+            "size": "42 MB"
+        },
 		"Baringo2021":{
             "title": "Baringo County Road Classification",
             "desc": "Baringo County road classification map",
