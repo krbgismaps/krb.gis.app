@@ -40,34 +40,34 @@
 		"2018Structures": {
             "title": "RICS 2018 Structures",
             "desc": "Map showing major structures in 2018 RICS",
-            "length": "246,786 Km",
+            "length": "na",
             "url": "data/mapsforge/2018Structures.map",
-            "size": "42 MB"
+            "size": "1.5 MB"
         },
 		"Baringo2021":{
-            "title": "Baringo County Road Classification",
+            "title": "Baringo County Road Classification 2021",
             "desc": "Baringo County road classification map",
             "length": "unspecified",
             "url": "data/mapsforge/Baringo.map",
-            "size": "166 kb"
+            "size": "0.16 MB"
         },
 		"Bomet2021":{
-            "title": "Bomet County Road Classification",
+            "title": "Bomet County Road Classification 2021",
             "desc": "Bomet County road classification map",
             "length": "unspecified",
             "url": "data/mapsforge/Bomet.map",
-            "size": "636 kb"
+            "size": "0.64 MB"
         }
 		,
 		"Kajiado2021":{
-            "title": "Kajiado County Road Classification",
+            "title": "Kajiado County Road Classification 2021",
             "desc": "Kajiado County road classification map",
             "length": "unspecified",
             "url": "data/mapsforge/Kajiado.map",
             "size": "1.6 Mb"
         },
 		"Kiambu2021":{
-            "title": "Kiambu County Road Classification",
+            "title": "Kiambu County Road Classification 2021",
             "desc": "Kiambu County road classification map",
             "length": "unspecified",
             "url": "data/mapsforge/Kiambu.map",
@@ -94,13 +94,5 @@
             "url": "data/mapsforge/Nairobi.map",
             "size": "2.3 Mb"
         }
-	},
-    "Reclassification": {
-        "2021": {
-            "title": "Road Classification 2021",
-            "desc": "This includes roads reclassified in 2022",
-            "length": "Unspecified",
-            "url": "data/reclassification/2021.gpkg"
-        }
-    }
+	}
 }
