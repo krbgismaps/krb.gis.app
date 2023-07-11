@@ -1,25 +1,11 @@
 {
     "Counties": {
-        "Kajiado": {
-            "title": "Kajiado County",
-            "desc": "Roads In Kajiado County",
-            "length": "1000Km",
-            "url": "data/counties/Kajiado.gpkg",
-            "size":"6 Mb"
-        },
         "Kiambu": {
             "title": "Kiambu County",
             "desc": "Roads In Kiambu County",
             "length": "1000Km",
             "url": "data/counties/Kiambu.gpkg",
             "size": "9 Mb"
-        },
-        "Machakos": {
-            "title": "Machakos County",
-            "desc": "Roads In Machakos County",
-            "length": "1000Km",
-            "url": "data/counties/Machakos.gpkg",
-            "size": "5 Mb"
         },
         "Nairobi": {
             "title": "Nairobi County",
@@ -50,28 +36,6 @@
             "length": "na",
             "url": "data/mapsforge/2018Structures.map",
             "size": "1.5 MB"
-        },
-		"Baringo2021":{
-            "title": "Baringo County Road Classification 2021",
-            "desc": "Baringo County road classification map",
-            "length": "unspecified",
-            "url": "data/mapsforge/Baringo.map",
-            "size": "0.16 MB"
-        },
-		"Bomet2021":{
-            "title": "Bomet County Road Classification 2021",
-            "desc": "Bomet County road classification map",
-            "length": "unspecified",
-            "url": "data/mapsforge/Bomet.map",
-            "size": "0.64 MB"
-        }
-		,
-		"Kajiado2021":{
-            "title": "Kajiado County Road Classification 2021",
-            "desc": "Kajiado County road classification map",
-            "length": "unspecified",
-            "url": "data/mapsforge/Kajiado.map",
-            "size": "1.6 Mb"
         },
 		"Kiambu2021":{
             "title": "Kiambu County Road Classification 2021",
