@@ -18,9 +18,9 @@
     "map": {
         "2021Classification": {
             "title": "NTR Chainages 2020",
-            "desc": "Map of National Trunk Roads Chainages as per 2020 Road Classification",
+            "desc": "Map of 2020 classification with National Trunk Roads Chainages as per 2020 Road Classification",
             "length": "44,012 Km",
-            "url": "data/mapsforge/2021Classification.map",
+            "url": "data/mapsforge/2020Classification.map",
             "size": "32 MB"
         },
         "NTRChaninage2023": {
