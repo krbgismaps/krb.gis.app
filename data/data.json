@@ -21,7 +21,7 @@
             "desc": "Map of 2020 classification with National Trunk Roads Chainages as per 2020 Road Classification",
             "length": "44,012 Km",
             "url": "data/mapsforge/2020Classification.map",
-            "size": "32 MB"
+            "size": "34.7 MB"
         },
         "NTRChaninage2023": {
             "title": "NTR Chainages 2020",
@@ -42,7 +42,7 @@
             "desc": "Kenya Base Map",
             "length": "",
             "url": "data/mapsforge/BaseMap.map",
-            "size": "7 MB"
+            "size": "7.3 MB"
         },
         "Kenya2021": {
             "title": "Kenyan Roads Map",
