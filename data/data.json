@@ -50,16 +50,16 @@
             "length": "246,786 Km",
             "url": "data/mapsforge/Kenya.map",
             "size": "42 MB"
-        },
-		"2018Structures": {
+        }
+    },
+    "backup":{
+        "2018Structures": {
             "title": "RICS 2018 Structures",
             "desc": "Map showing major structures in 2018 RICS",
             "length": "na",
             "url": "data/mapsforge/2018Structures.map",
             "size": "1.5 MB"
-        }
-    },
-    "backup":{
+        },
 		"Kiambu2021":{
             "title": "Kiambu County Road Classification 2021",
             "desc": "Kiambu County road classification map",
