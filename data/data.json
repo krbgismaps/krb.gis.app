@@ -29,6 +29,13 @@
             "url": "data/mapsforge/BaseMap.map",
             "size": "7.3 MB"
         },
+        "BaseMap V2": {
+            "title": "Base Map 2",
+            "desc": "Kenya Base Map",
+            "length": "",
+            "url": "data/mapsforge/BaseMap2.map",
+            "size": "6.16 MB"
+        },
         "Kenya2021": {
             "title": "Kenyan Roads Map",
             "desc": "This map contain all roads in kenya as per the 2021 road classification",
