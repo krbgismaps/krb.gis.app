@@ -21,6 +21,13 @@
             "length": "",
             "url": "data/mapsforge/Base Map.map",
             "size": "6.71 MB"
+        },
+        "Buildings": {
+            "title": "Buildings",
+            "desc": "Kenya Buildings Map",
+            "length": "",
+            "url": "data/mapsforge/Buildings.map",
+            "size": "6.71 MB"
         }
     }
 }
