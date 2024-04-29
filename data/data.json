@@ -8,13 +8,6 @@
             "url": "data/mapsforge/RICS2024.map",
             "size": "63.2 MB"
         },
-        "2021Classification": {
-            "title": "Classification 2020",
-            "desc": "Map of 2020 classification with National Trunk Roads Chainages as per 2020 Road Classification",
-            "length": "44,012 Km",
-            "url": "data/mapsforge/2020Classification.map",
-            "size": "34.7 MB"
-        },
         "NTRChaninage2023": {
             "title": "NTR Chainages 2020",
             "desc": "Map of National Trunk Roads Chainages as per 2020 Road Classification",
@@ -22,33 +15,12 @@
             "url": "data/mapsforge/NTRChainages2023.map",
             "size": "16 MB"
         },
-        "CountyRoads": {
-            "title": "County Roads Data plus New Roads",
-            "desc": "This map contain county and new roads in kenya as per the 2020 road classification",
-            "length": "246,786 Km",
-            "url": "data/mapsforge/CountyRoads.map",
-            "size": "42 MB"
-        },
-        "BaseMap": {
-            "title": "Base Map",
-            "desc": "Kenya Base Map",
-            "length": "",
-            "url": "data/mapsforge/BaseMap.map",
-            "size": "7.3 MB"
-        },
         "BaseMap V2": {
             "title": "Base Map 2",
             "desc": "Kenya Base Map",
             "length": "",
             "url": "data/mapsforge/BaseMap2.map",
             "size": "6.71 MB"
-        },
-        "Kenya2021": {
-            "title": "Kenyan Roads Map",
-            "desc": "This map contain all roads in kenya as per the 2021 road classification",
-            "length": "246,786 Km",
-            "url": "data/mapsforge/Kenya.map",
-            "size": "42 MB"
         }
     }
 }
