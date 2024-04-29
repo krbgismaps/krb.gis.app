@@ -5,7 +5,7 @@
             "title": "Road Inventory and Condition Survery 2023",
             "desc": "Map of 2023 RICS",
             "length": "239, 105 Km",
-            "url": "data/mapsforge/RICS2024.map",
+            "url": "data/mapsforge/RICS 2024 Map.map",
             "size": "63.2 MB"
         },
         "NTRChaninage2023": {
@@ -19,7 +19,7 @@
             "title": "Base Map 2",
             "desc": "Kenya Base Map",
             "length": "",
-            "url": "data/mapsforge/BaseMap2.map",
+            "url": "data/mapsforge/Base Map.map",
             "size": "6.71 MB"
         }
     }
