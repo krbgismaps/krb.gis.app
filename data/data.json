@@ -15,8 +15,8 @@
             "url": "data/mapsforge/NTRChainages2023.map",
             "size": "16 MB"
         },
-        "BaseMap V2": {
-            "title": "Base Map 2",
+        "BaseMap": {
+            "title": "Base Map",
             "desc": "Kenya Base Map",
             "length": "",
             "url": "data/mapsforge/Base Map.map",
